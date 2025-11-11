@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Test Piwik PRO</title>
+</head>
+<body>
+  <h1>Bienvenue sur mon site test Piwik PRO</h1>
+  <button onclick="alert('Event test !')">Clic test</button>
+</body>
+</html>
