@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Piwik PRO Training Site</title>
+</head>
+<body>
+  <h1>Welcome to my Piwik PRO Test Site</h1>
+
+  <!-- CTA pour l'exercice 3 -->
+  <a class="wp-block-button__link wp-element-button" href="https://www.airbus.com/en/products-and-services/defence/military-aircraft" target="_blank">
+    Get a demo
+  </a>
+
+  <br><br>
+
+  <!-- PDF pour l'exercice 4 -->
+  <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" download>
+    Download brochure (PDF)
+  </a>
+</body>
+</html>
